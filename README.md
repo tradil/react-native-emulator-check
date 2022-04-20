@@ -4,7 +4,7 @@ Check current ReactNative app whether running on a emulator device.
 ## Install
 
 ```
-npm install "https://github.com/tradil/react-native-emulator-check.git#master" --save
+npm install "https://github.com/tradil/react-native-emulator-check.git#main" --save
 react-native link react-native-emulator-check
 ```
 
